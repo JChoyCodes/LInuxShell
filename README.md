@@ -9,6 +9,6 @@ Built in commands supported
   -help
   -history
 
-Pressing cntrl-c will run the help command.
+Pressing ctrl-c will run the help command.
   
   
